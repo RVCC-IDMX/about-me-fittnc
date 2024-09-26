@@ -1,13 +1,35 @@
-body {background-color: #40e670;
-    font-family: Gowun+Batang;
+body {
+    background-color: hwb(175 64% 0%);
+    font-family: 'Courier New', Courier, monospace;
 
 
 }
 
-header {text-align: center;
-    color: purple;
-
+header {
+    text-align: center;
+    color: hsl(0, 0%, 0%);
 }
+
 h1,h2,h3,h4,h5.h6 {
     font-family: 'Times New Roman';
+}
+#anti, footer {
+text-align: center;
+background-color: #32a4e2;
+color: white;
+padding:  20px;
+border: 10px outset  #8cd7ea;
+border-radius: 50px;
+
+
+
+
+}
+#anti img {
+    width: 250px;
+
+}
+#hero {
+
+
 }
