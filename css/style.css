@@ -1,8 +1,6 @@
 body {
     background-color: hwb(175 64% 0%);
     font-family: 'Courier New', Courier, monospace;
-
-
 }
 
 header {
@@ -30,6 +28,9 @@ border-radius: 50px;
 
 }
 #hero {
+}
 
+#cooking-pic img {
+    width: 250px;
 
 }
