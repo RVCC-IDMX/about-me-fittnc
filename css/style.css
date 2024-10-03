@@ -41,5 +41,53 @@ color: #ffe17f;
 
 }
 
+#gallery, #lit{
+    border: 10px outset rgb(151, 148, 115);
+    border-radius: 30px;
+    text-align: center;
+    background-color: hsl(221, 96%, 70%);
+    margin-bottom: 2em;
+    
+}
+#gallery hr {
+    border: none;
+    border-top: 10px;
+}
 
 
+
+img {
+    max-width: 100%;
+}
+#lit {
+    text-align: justify;
+}
+#lit div {
+    padding: 2em;
+    max-width: 40rem;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+
+/* dropcaps */
+ #lit p:first-letter {
+    color: #ffe17f;
+    background-color: #176d9c;
+    background-image: hsl(230, 86%, 42%);
+    text-shadow: hsl(221, 90%, 32%);
+    float: left;
+    font-size: 3em;
+    line-height: 100%;
+    padding: .1ex;
+    border-radius: 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+ }
+ #lit p {
+    clear: both;
+ }
+
+ #lit h2 {
+    text-align: center;
+ }
