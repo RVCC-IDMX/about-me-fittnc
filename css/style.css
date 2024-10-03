@@ -32,5 +32,14 @@ border-radius: 50px;
 
 #cooking-pic img {
     width: 250px;
+    text-align: center;
 
 }
+
+#hobbies ul li:nth-child(odd) {
+color: #ffe17f;
+
+}
+
+
+
