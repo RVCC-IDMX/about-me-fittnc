@@ -158,6 +158,9 @@ height: 100%;
     padding-top: 5rem;
  }
 
+
+
+
  @media screen and (min-width: 60em) {
     figure {
         display:grid;
@@ -171,8 +174,20 @@ height: 100%;
         margin-left: 1rem;
     }
 
+figure img {
+    width: 100%;
+}
 
+
+#lit div {
+    max-width: 100%;
+    columns: 20rem;
+}
 
 
 
  }
+@media screen and (min-width:100em) {
+#gallery {
+
+}
