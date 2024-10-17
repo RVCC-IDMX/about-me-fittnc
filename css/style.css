@@ -37,11 +37,11 @@ border-radius: 50px;
 }
 
 #hobbies ul li:nth-child(odd) {
-color: #ffe17f;
+color: hsl(0, 0%, 0%);
 
 }
 
-#gallery, #lit{
+#gallery, #lit, #video{
     border: 10px outset rgb(151, 148, 115);
     border-radius: 30px;
     text-align: center;
@@ -90,4 +90,89 @@ img {
 
  #lit h2 {
     text-align: center;
+ }
+
+#hobbies {
+display: flex; 
+flex-direction: column; 
+align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #myvideo {
+width: 100%;
+position:absolute;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+height: 100%;
+ }
+
+ #videocontainer {
+    position:relative;
+    overflow:hidden;
+    width:100%;
+    padding-top: 56.25%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px;
+
+ }
+ #videocontainercontainer {
+    max-width: 100%;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+ }
+
+ @media screen and (min-width: 60em) {
+    figure {
+        display:grid;
+        grid-template-columns: 2fr 1fr;
+    }
+    figcaption {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 2rem;
+        margin-left: 1rem;
+    }
+
+
+
+
+
  }
