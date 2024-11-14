@@ -211,6 +211,13 @@ height: 100%;
     padding-top: 5rem;
  }
 
+/* Contact Form */
 
+#formElements {
+    display: grid;
+
+
+    
+}
 
 
