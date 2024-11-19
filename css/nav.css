@@ -70,10 +70,16 @@ main {
     display: inline-block;
 }
 
-
-
+.navbar-links a:hover,
+.navbar-links a:focus {
+   color: white;
+    background: hsl(0, 0%, 0%);
+    border-radius: 10px;
+    outline: none;
+}
 /* 
 media query for non-mobile nav bar
 min-width set to width of nav elements 
 such that no text wraps 
 */
+
