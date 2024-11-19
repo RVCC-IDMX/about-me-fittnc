@@ -1,3 +1,3 @@
-# README
+# About Me
 
 By Jay Chen 
