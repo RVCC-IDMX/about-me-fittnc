@@ -32,4 +32,8 @@ Finally at the present, but during these days might be the hardest yet. Catching
 ## Sources
 https://www.youtube.com/channel/UCOmMUjaCM5koM_nSJ1KVg5Q - The Duck Story
 
+https://css-tricks.com/css-sprites/ - What is CSS Sprites
 
+https://www.smashingmagazine.com/2009/04/the-mystery-of-css-sprites-techniques-tools-and-tutorials/ - History of Sprites
+
+https://www.geeksforgeeks.org/what-are-the-benefits-of-using-css-sprites/ - Pros and Cons of CSS Sprites
