@@ -129,6 +129,16 @@ h1 {
     text-align: center;
 }
 
+/**.nav {
+    border-bottom: 1px solid red;
+
+nav__toggle {
+    position: absolute;
+    cursor:pointer;
+    margin: 0rem 1rem;
+    right: 0;
+    }
+} **/
 
 
 
